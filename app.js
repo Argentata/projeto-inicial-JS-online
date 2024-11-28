@@ -3,7 +3,7 @@ let NumeroSecreto = 30;
 
 num = prompt('Elija un número de 1 a 50');
 
-if (num < NumeroSecreto) {
+if (num < = NumeroSecreto) {
     alert('acertaste');
 
 } 
